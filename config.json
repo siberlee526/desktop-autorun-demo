@@ -1,0 +1,8 @@
+{
+  "app_name": "Desktop AutoRun Demo",
+  "version": "1.0.0",
+  "autorun_enabled": true,
+  "log_level": "INFO",
+  "startup_delay": 5,
+  "log_file": "autorun.log"
+}
